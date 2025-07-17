@@ -1,13 +1,13 @@
-WITH first_login AS (
-  SELECT player_id, MIN(event_date) AS first_day
-  FROM Activity
-  GROUP BY player_id
+with first_visit as(
+select player_id,min(event_date) as event_date
+from Activity
+group by player_id
 )
-SELECT 
-  ROUND(
+select 
+    ROUND(
     SUM(CASE WHEN a.player_id IS NOT NULL THEN 1 ELSE 0 END) / COUNT(*), 2
   ) AS fraction
-FROM first_login f
-LEFT JOIN Activity a
-  ON f.player_id = a.player_id 
- AND a.event_date = DATE_ADD(f.first_day, INTERVAL 1 DAY)
+from first_visit f
+left join Activity a
+on f.player_id = a.player_id
+and a.event_date = date_add(f.event_date,interval 1 day)
