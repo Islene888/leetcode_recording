@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Islene888/leetcode_recording/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Islene888/leetcode_recording/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/Islene888/leetcode_recording/tree/master/0184-department-highest-salary) |
 | [1182-game-play-analysis-iv](https://github.com/Islene888/leetcode_recording/tree/master/1182-game-play-analysis-iv) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Islene888/leetcode_recording/tree/master/1908-recyclable-and-low-fat-products) |
