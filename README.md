@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1182-game-play-analysis-iv](https://github.com/Islene888/leetcode_recording/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Islene888/leetcode_recording/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Islene888/leetcode_recording/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/Islene888/leetcode_recording/tree/master/1301-reformat-department-table) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Islene888/leetcode_recording/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Islene888/leetcode_recording/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
