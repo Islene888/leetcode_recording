@@ -1,3 +1,4 @@
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -36,3 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Islene888/leetcode_recording/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Islene888/leetcode_recording/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
+
+
+1484. Group Sold Products By The Date classic column to row : group_concat( separator ',') 并不熟练 need more practice
