@@ -44,3 +44,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 1484. Group Sold Products By The Date classic column to row : group_concat( separator ',') 并不熟练 need more practice
 
 1164.题目比较绕，再多练一下。
+1683 sql表格中的 字符串长度：CHAR_LENGTH(content) > 15
