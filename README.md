@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Islene888/leetcode_recording/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Islene888/leetcode_recording/tree/master/1625-group-sold-products-by-the-date) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Islene888/leetcode_recording/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Islene888/leetcode_recording/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
