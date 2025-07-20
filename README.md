@@ -58,3 +58,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 1683 sql表格中的 字符串长度：CHAR_LENGTH(content) > 15
 
 1280 cross join 
+177: mysql 的fiction： CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+DECLARE M INT; 
+    SET M = N-1; 
+  RETURN (
+      SELECT DISTINCT salary
+      FROM Employee
+      ORDER BY salary DESC
+      LIMIT M, 1
+  );
+END
+
