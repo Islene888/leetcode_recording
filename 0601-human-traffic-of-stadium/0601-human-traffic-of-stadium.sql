@@ -1,12 +1,9 @@
-with tb as(
-    select
-        *,
-        sum(people>99) over (rows between 2 preceding and current row) as rk1,
-        sum(people > 99) over(rows between 1 preceding and 1 following) as rk2,
-        sum(people> 99) over(rows between current row and 2 following) as rk3
-    from Stadium s
-
+select distinct s1.id,s1.visit_date,s1.people
+from Stadium s1, Stadium s2, Stadium s3
+where(
+    (s1.id = s2.id -1 and s2.id = s3.id -1) or  
+    (s1.id = s2.id +1 and s1.id = s3.id -1) or  
+    (s1.id = s2.id +1 and s2.id = s3.id +1)    
 )
-select id, visit_date, people
-from tb
-where rk1>2 or rk2>2 or rk3>2
+and s1.people>99 and s2.people>99 and s3.people>99
+order by s1.visit_date;
