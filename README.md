@@ -53,22 +53,123 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics End-->
 
 
-1484. Group Sold Products By The Date classic column to row : group_concat( separator ',') 并不熟练 need more practice
 
-1164.题目比较绕，再多练一下。
 
-1683 sql表格中的 字符串长度：CHAR_LENGTH(content) > 15
 
-1280 cross join 
-177: mysql 的fiction： CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
-BEGIN
-DECLARE M INT; 
+
+
+
+# SQL 刷题技巧与常用语法总结
+
+---
+
+## 1484. Group Sold Products By The Date
+
+* **考点**：列转行（classic column to row）
+* **技巧**：`GROUP_CONCAT(字段 ORDER BY ... SEPARATOR ',')` 用于将多行聚合成一行字符串。
+* **经验**：group\_concat 语法需多练习。
+
+---
+
+## 1164. 题目理解需多练
+
+* **经验**：题意比较绕，建议多刷几遍并写下自己的解题思路。
+
+---
+
+## 1683. SQL 表格中的字符串长度
+
+* **用法**：`CHAR_LENGTH(content) > 15`
+* **例子**：
+
+  ```sql
+  SELECT * FROM 表名 WHERE CHAR_LENGTH(content) > 15;
+  ```
+
+---
+
+## 1280. cross join
+
+* **考点**：笛卡尔积
+* **语法**：
+
+  ```sql
+  SELECT * FROM A CROSS JOIN B;
+  ```
+* **注意**：行数 = A 表行数 × B 表行数，通常结合 WHERE 使用避免结果过大。
+
+---
+
+## 177. MySQL 的 nth Highest Salary (自定义函数)
+
+* **写法**：
+
+  ```sql
+  CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+  BEGIN
+    DECLARE M INT; 
     SET M = N-1; 
-  RETURN (
+    RETURN (
       SELECT DISTINCT salary
       FROM Employee
       ORDER BY salary DESC
       LIMIT M, 1
-  );
-END
+    );
+  END
+  ```
+* **知识点**：LIMIT M, 1，M 表示跳过前 M 行，返回第 M+1 行。
 
+---
+
+## 196. DELETE 用法规范
+
+* **删除所有数据**
+
+  ```sql
+  DELETE FROM 表名;
+  ```
+
+* **按条件删除**
+
+  ```sql
+  DELETE FROM 表名 WHERE 条件;
+  ```
+
+* **多表联合删除（MySQL）**
+
+  ```sql
+  DELETE t1 FROM t1 JOIN t2 ... WHERE ...;
+  ```
+
+  ```sql
+  DELETE p2 
+  FROM Person p1, Person p2
+  WHERE p1.Email = p2.Email 
+    AND p1.Id < p2.Id;
+  ```
+
+---
+
+## LIMIT 和 OFFSET
+
+* **用法**：
+
+  ```sql
+  SELECT * FROM 表名
+  ORDER BY 字段
+  LIMIT N OFFSET M;
+  ```
+
+  或者
+
+  ```sql
+  SELECT * FROM 表名
+  ORDER BY 字段
+  LIMIT M, N;
+  ```
+
+  * M: 跳过前 M 行
+  * N: 返回 N 行
+* **例子**：`LIMIT 2, 1` 返回第 3 行数据（下标从 0 开始）
+
+---
