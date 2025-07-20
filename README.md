@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/Islene888/leetcode_recording/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Islene888/leetcode_recording/tree/master/1278-product-price-at-a-given-date) |
 | [1301-reformat-department-table](https://github.com/Islene888/leetcode_recording/tree/master/1301-reformat-department-table) |
+| [1415-students-and-examinations](https://github.com/Islene888/leetcode_recording/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Islene888/leetcode_recording/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Islene888/leetcode_recording/tree/master/1625-group-sold-products-by-the-date) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Islene888/leetcode_recording/tree/master/1908-recyclable-and-low-fat-products) |
