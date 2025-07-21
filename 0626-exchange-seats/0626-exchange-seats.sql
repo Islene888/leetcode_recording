@@ -1,9 +1,8 @@
-SELECT
-    CASE
-        WHEN MOD(id, 2) = 0 THEN id - 1
-        WHEN id = (SELECT MAX(id) FROM Seat) THEN id
-        ELSE id + 1
-    END AS id,
+select 
+    case when MOD(id,2) = 0 then id - 1
+         when id = (select max(id) from Seat) then id
+         else id+1
+    end as id,
     student
-FROM Seat
-ORDER BY id;
+from Seat
+order by id;
