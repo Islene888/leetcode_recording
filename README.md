@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Islene888/leetcode_recording/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/Islene888/leetcode_recording/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Islene888/leetcode_recording/tree/master/0585-investments-in-2016) |
+| [0595-big-countries](https://github.com/Islene888/leetcode_recording/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/Islene888/leetcode_recording/tree/master/0601-human-traffic-of-stadium) |
 | [0626-exchange-seats](https://github.com/Islene888/leetcode_recording/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Islene888/leetcode_recording/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
