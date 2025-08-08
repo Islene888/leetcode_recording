@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Islene888/leetcode_recording/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Islene888/leetcode_recording/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -56,6 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Islene888/leetcode_recording/tree/master/0507-perfect-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Islene888/leetcode_recording/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Islene888/leetcode_recording/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
 
 
