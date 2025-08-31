@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Islene888/leetcode_recording/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Islene888/leetcode_recording/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islene888/leetcode_recording/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islene888/leetcode_recording/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Islene888/leetcode_recording/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Islene888/leetcode_recording/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
