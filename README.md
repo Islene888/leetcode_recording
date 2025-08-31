@@ -106,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->
 
