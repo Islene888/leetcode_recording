@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Islene888/leetcode_recording/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Islene888/leetcode_recording/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Islene888/leetcode_recording/tree/master/0643-maximum-average-subarray-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Islene888/leetcode_recording/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Islene888/leetcode_recording/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Islene888/leetcode_recording/tree/master/0643-maximum-average-subarray-i) |
 ## Tree
 |  |
 | ------- |
