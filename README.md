@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Islene888/leetcode_recording/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islene888/leetcode_recording/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
+| [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -131,6 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
 
 
