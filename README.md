@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Islene888/leetcode_recording/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Islene888/leetcode_recording/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islene888/leetcode_recording/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
 | [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Islene888/leetcode_recording/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Islene888/leetcode_recording/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Islene888/leetcode_recording/tree/master/0904-leaf-similar-trees) |
@@ -150,6 +154,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Islene888/leetcode_recording/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
 
 
