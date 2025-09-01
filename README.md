@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
 | [0283-move-zeroes](https://github.com/Islene888/leetcode_recording/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Islene888/leetcode_recording/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Islene888/leetcode_recording/tree/master/0735-asteroid-collision) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Islene888/leetcode_recording/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -135,10 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Islene888/leetcode_recording/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Islene888/leetcode_recording/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
 
