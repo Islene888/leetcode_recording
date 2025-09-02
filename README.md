@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Islene888/leetcode_recording/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Islene888/leetcode_recording/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/Islene888/leetcode_recording/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Islene888/leetcode_recording/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Islene888/leetcode_recording/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
 
 
