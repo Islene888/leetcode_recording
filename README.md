@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islene888/leetcode_recording/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Islene888/leetcode_recording/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/Islene888/leetcode_recording/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Islene888/leetcode_recording/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Islene888/leetcode_recording/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/Islene888/leetcode_recording/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
