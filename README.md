@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Islene888/leetcode_recording/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Islene888/leetcode_recording/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Islene888/leetcode_recording/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Islene888/leetcode_recording/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Islene888/leetcode_recording/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/Islene888/leetcode_recording/tree/master/0940-fruit-into-baskets) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Islene888/leetcode_recording/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Islene888/leetcode_recording/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/Islene888/leetcode_recording/tree/master/0349-intersection-of-two-arrays) |
 | [0940-fruit-into-baskets](https://github.com/Islene888/leetcode_recording/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Islene888/leetcode_recording/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islene888/leetcode_recording/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Islene888/leetcode_recording/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Islene888/leetcode_recording/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Islene888/leetcode_recording/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Islene888/leetcode_recording/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/Islene888/leetcode_recording/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Islene888/leetcode_recording/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Islene888/leetcode_recording/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Islene888/leetcode_recording/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Islene888/leetcode_recording/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
 
 
