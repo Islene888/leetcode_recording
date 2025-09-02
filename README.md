@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Islene888/leetcode_recording/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Islene888/leetcode_recording/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Islene888/leetcode_recording/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/Islene888/leetcode_recording/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Islene888/leetcode_recording/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Islene888/leetcode_recording/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Islene888/leetcode_recording/tree/master/0735-asteroid-collision) |
@@ -161,6 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Islene888/leetcode_recording/tree/master/0257-binary-tree-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Islene888/leetcode_recording/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
 
 
