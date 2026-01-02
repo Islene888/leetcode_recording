@@ -1,22 +1,14 @@
-with table1 as(
-select 
-e.name as Employee,
-e.salary as salary, 
-e.departmentId as departmentId,
-d.name as Department
-from Employee e
-join Department d
-on e.departmentId = d.id
-),
-table2 as(
-select 
-*, 
-dense_rank() over (partition by departmentId order by salary desc ) as rank1
-from table1 
+with t as(
+select
+*,
+rank() over(partition by departmentId order by salary desc) as rk1
+from employee
 )
-select 
-Department,
-Employee,
-Salary
-from table2
-where rank1 = 1
+select
+d.name as Department,
+t.name as Employee,
+t.salary as Salary
+from t
+join Department d 
+on t.departmentId =d.id 
+and rk1 = 1
